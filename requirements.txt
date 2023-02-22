@@ -6,3 +6,4 @@ PyQtWebEngine==5.15.6
 PyQtWebEngine-Qt5==5.15.2
 pyvis==0.3.1
 networkx==3.0
+QScintilla==2.13.3

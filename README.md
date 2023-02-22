@@ -4,7 +4,7 @@ Automatic Java document generator.
 
 # Installation
 
-pip3 install -r requirements.txt
+```pip3 install -r requirements.txt```
 
 # Run application
 
